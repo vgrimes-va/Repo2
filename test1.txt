@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 1C61-0EA1
+
+ Directory of C:\Users\OITATGGRIMEV\VEG\AVA\Git\GitBranchAVA
+
+10/04/2024  08:17 AM    <DIR>          .
+10/04/2024  08:17 AM    <DIR>          ..
+10/04/2024  08:17 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  375,498,641,408 bytes free
